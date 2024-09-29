@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "773362444120",
+    "firebase_url": "https://maroun-task-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "maroun-task",
+    "storage_bucket": "maroun-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773362444120:android:1c7df6f16976cfa902a72d",
+        "android_client_info": {
+          "package_name": "com.example.fluter_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCL1ejiK9tA0YrV9-fuj72-Kfpy9gOzl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
